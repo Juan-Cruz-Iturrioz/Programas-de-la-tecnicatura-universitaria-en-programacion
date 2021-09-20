@@ -1,0 +1,755 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>TP de Juan Cruz Iturrioz.net</title>
+
+<style>
+
+	body{ 
+  		font-size: 150%;
+	} 
+
+	#Andreu , #Berto , #letras_elegida_2 , #Whatsapp ,#Boton{
+		font-size: 80%;
+	}
+
+	#Image_Pregunta_2 {	
+		display: none;
+		padding: 10px;
+  		width: 300px;
+	}
+
+	#letras_elegida_1 , #letras_elegida_2{
+		visibility:  hidden;
+		position: relative;
+		left: 20px;
+	}
+	input.letras { 
+		position: relative;
+		top: 20px; left: 22px;}
+	
+	#Pregunta_1_Puntos , #Pregunta_2_Puntos, #Pregunta_3_Puntos, #Pregunta_4_Puntos, #Pregunta_5_Puntos, #Pregunta_6_Puntos{
+		text-align: right;
+		width:700px;
+	}
+	
+
+	#Link_Pregunta_1, #Link_Pregunta_3, #Link_Pregunta_4, #Link_Pregunta_5, #Link_Pregunta_6{
+		display: none;
+	}
+
+	img#Image_1{
+		
+  		padding: 10px;
+  		width: 450px;
+	}
+
+
+</style>
+
+</head>
+<body>
+
+<h1 id="Titulo">Cuestionario sobre Nadie Sabe Nada</h1>
+
+<form method="Get">	
+	
+	<ol>
+		<li>
+		<div id="Pregunta_1"> 
+			
+				<p>En la presentación del programa, cual es el orden de los presentadores?</p> 
+					<img src="Image_1.jpg" id="Image_1" alt="Presentadores">
+					<br>
+				
+					<label>Berto Romero</label>
+
+						<select id="Berto" onclick='Funcion_Pregunta_1("Berto");' >
+  							<option selected disabled hidden>Elige</option>
+  							<!--Esto (selected disabled hidden) lo saqué de 
+  								https://stackoverflow.com/questions/3518002/how-can-i-set-the-default-value-for-an-html-select-element -->
+  							<option value="1" >Primero</option>
+ 							<option value="2" >Segundo</option>					
+						</select>
+				
+
+					<label>&nbsp;&nbsp;Andreu Buenafuente</label>
+					
+						<select id="Andreu" onclick='Funcion_Pregunta_1("Andreu");' >
+  							<option selected disabled hidden>Elige</option>  						  							
+  							<option value="1" > Primero </option>
+ 							<option value="2" > Segundo </option>						
+						</select>
+					
+						<p id="Pregunta_1_Puntos">10 Puntos</p>
+					<a href="https://www.youtube.com/watch?v=_bnnxn6ZqH8" id="Link_Pregunta_1">Link de verificacion</a>	
+				
+			</div>	
+		</li>
+
+		<!--                          Javascript                          -->	
+
+		<script>
+				"use strict"
+
+				function Funcion_Pregunta_1(Nombre_1){
+				
+					var Nombre_2
+
+					if (Nombre_1 == "Andreu") {
+				
+						Nombre_2 = "Berto"
+					}
+				
+					else{
+				
+						Nombre_2 = "Andreu"
+					}
+
+
+					if(document.getElementById(Nombre_1).selectedIndex == 1){
+					
+						document.getElementById(Nombre_2).selectedIndex = 2;
+					
+						/*Esto (.selectedIndex) lo saqué de 
+						https://www.w3schools.com/jsref/prop_select_selectedindex.asp#:~:text=The%20selectedIndex%20property%20sets%20or,all%20options%20(if%20any).*/
+					}
+
+					if(document.getElementById(Nombre_1).selectedIndex == 2){
+					
+						document.getElementById(Nombre_2).selectedIndex = 1;
+					}
+				
+				};
+				
+		</script>
+
+		<!--                          Fin del Javascript                          -->
+		
+		<!--                          Final de la Pregunta 1                          -->
+
+			
+		<li>	 
+			<div id="Pregunta_2">
+			
+				<p> El nombre del programa, que letra cambio durante la cuarentena de COVID-19? </p>
+					 <br> 
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_1" id="letra_1" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_1" id="Lugar_1">N</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_2" id="letra_2" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_2" id="Lugar_2">a</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_3" id="letra_3" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_3" id="Lugar_3">d</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_4" id="letra_4" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_4" id="Lugar_4">i</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_5" id="letra_5" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_5" id="Lugar_5">e &nbsp;&nbsp;</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_6" id="letra_6" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_6" id="Lugar_6">S</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_7" id="letra_7" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_7" id="Lugar_7">a</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_8" id="letra_8" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_8" id="Lugar_8">b</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_9" id="letra_9" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_9" id="Lugar_9">e &nbsp;&nbsp;</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_10" id="letra_10" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_10" id="Lugar_10">N</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_11" id="letra_11" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_11" id="Lugar_11">a</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_12" id="letra_12" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_12" id="Lugar_12">d</label>
+
+												
+							<input type="radio" name="Nombre_en_COVID_19" value="letra_13" id="letra_13" class ="letras" onclick="Funcion_Pregunta_2();">
+							<label for="letra_13" id="Lugar_13">a</label>
+
+										
+					<br> <br> <br>
+
+					<label id="letras_elegida_1">Ingese una letra &nbsp;</label> 
+					
+					<select name="letras_elegida" id="letras_elegida_2">
+						<option selected disabled hidden>Elige</option>
+											
+								<option value="A"> A </option>
+						
+													
+								<option value="B"> B </option>
+						
+													
+								<option value="C"> C </option>
+						
+													
+								<option value="D"> D </option>
+						
+													
+								<option value="E"> E </option>
+						
+													
+								<option value="F"> F </option>
+						
+													
+								<option value="G"> G </option>
+						
+													
+								<option value="H"> H </option>
+						
+													
+								<option value="I"> I </option>
+						
+													
+								<option value="J"> J </option>
+						
+													
+								<option value="K"> K </option>
+						
+													
+								<option value="L"> L </option>
+						
+													
+								<option value="M"> M </option>
+						
+													
+								<option value="N"> N </option>
+						
+													
+								<option value="O"> O </option>
+						
+													
+								<option value="P"> P </option>
+						
+													
+								<option value="Q"> Q </option>
+						
+													
+								<option value="R"> R </option>
+						
+													
+								<option value="S"> S </option>
+						
+													
+								<option value="T"> T </option>
+						
+													
+								<option value="U"> U </option>
+						
+													
+								<option value="V"> V </option>
+						
+													
+								<option value="W"> W </option>
+						
+													
+								<option value="X"> X </option>
+						
+													
+								<option value="Y"> Y </option>
+						
+							 
+								<option value="Z"> Z </option>
+					
+					</select>
+
+					<p id="Pregunta_2_Puntos">10 Puntos</p>
+					<img src="Image_2.png" id="Image_Pregunta_2" alt="Nombre en COVID 19">
+
+					<!--                          Javascript                          -->
+					
+					<script>
+						"use strict"
+						function Funcion_Pregunta_2(){
+
+							document.getElementById("letras_elegida_1").style.visibility = "visible";
+
+							/* Esto ( .style.visibility  ) lo saqué de 
+							https://www.w3schools.com/jsref/prop_style_visibility.asp */
+
+							document.getElementById("letras_elegida_2").style.visibility = "visible";
+						};	
+					</script>
+
+					<!--                          Fin de Javascript                          -->
+			
+					<br> <br>
+			</div>
+		</li>
+	
+		<!--                          Final de la Pregunta 2                          -->
+		
+		<li>
+			<div id="Pregunta_3"> 
+			
+				<label id="Camellos">En la historia del "Camellos por Whatsapp", cuando estaba al final?</label> 
+					<select name="Camellos" id="Whatsapp">
+							
+							<option selected disabled hidden>Elige</option>
+									
+							<option value="45"> 45 </option>
+						
+														
+							<option value="35"> 35 </option>
+						
+														
+							<option value="20"> 20 </option>
+						
+					</select>
+					
+				<br> <br> 
+				<p id="Pregunta_3_Puntos">10 Puntos</p>
+				<a href="https://www.youtube.com/watch?v=s51gRUv_qOo" id="Link_Pregunta_3">Link de verificacion</a>
+			
+			</div>
+		</li>
+		
+		<!--                          Final de la Pregunta 3                          -->
+		
+		<li>
+			<div id="Pregunta_4">
+			
+			<p>Un dia en el programa conocimos a un geólogo, que cosas dijo?</p>
+				
+				<br>
+					
+				<input type="checkbox" name="Geólogo" id="dijo_1" value="falsa" >
+				<label for="dijo_1" id="Geólog_1" > Por qué crees que la gente no le interesan </label>
+				<br>
+													
+				<input type="checkbox" name="Geólogo" id="dijo_2" value="true" >
+				<label for="dijo_2" id="Geólog_2" > Ando detrás de hacerme de una piedad de riñón </label>
+				<br>
+													
+				<input type="checkbox" name="Geólogo" id="dijo_3" value="true" >
+				<label for="dijo_3" id="Geólog_3" > Me escucha un geólogo me pega </label>
+				<br>
+												
+				<input type="checkbox" name="Geólogo" id="dijo_4" value="falsa" >
+				<label for="dijo_4" id="Geólog_4" > Levanta una roca la huele y chupa </label>
+				<br>
+													
+				<input type="checkbox" name="Geólogo" id="dijo_5" value="true" >
+				<label for="dijo_5" id="Geólog_5" > Con la geólogo que es diertida </label>
+				<br>
+						
+				<p id="Pregunta_4_Puntos">10 Puntos</p>
+				<a href="https://www.youtube.com/watch?v=p1WQw-xfJ2A" id="Link_Pregunta_4">Link de verificacion</a>
+				
+				<br> 
+			
+			</div>
+		</li>
+		
+		<!--                          Final de la Pregunta 4                          -->
+		
+		<li>
+			<div id="Pregunta_5">
+			
+			<p>Un dia en el programa subió un cantante de ópera al escenario, de que nacionalidad tiene/s?</p>
+					
+				<br>
+												
+				<input type="checkbox" name="Opera" id="Nacionalidad_1" value="True">
+				<label for="Nacionalidad_1" id="Opera_1"> Argentino </label>
+				<br>
+													
+				<input type="checkbox" name="Opera" id="Nacionalidad_2" value="True">
+				<label for="Nacionalidad_2" id="Opera_2"> Italiano </label>
+				<br>
+													
+				<input type="checkbox" name="Opera" id="Nacionalidad_3" value="Falsa">
+				<label for="Nacionalidad_3" id="Opera_3"> Español </label>
+				<br>
+													
+				<input type="checkbox" name="Opera" id="Nacionalidad_4" value="Falsa">
+				<label for="Nacionalidad_4" id="Opera_4"> Chileno </label>
+				<br>
+											
+				<p id="Pregunta_5_Puntos">10 Puntos</p>
+				<a href="https://www.youtube.com/watch?v=ep1zh3-jW2Q&t=175s" id="Link_Pregunta_5">Link de verificacion</a>
+				<br> 			
+			</div>
+		</li>
+
+		<!--                          Final de la Pregunta 5                          -->
+		
+		<li>	
+			<div id="Pregunta_6">
+			
+			<p>Cuál fue la pregunta que comienzo la "Crisis de la urna" ?</p>
+	
+				<input type="radio" name="Crisis" id="Preguntas_1" value="True">
+				<label for="Preguntas_1" id="Crisis_1">  Vbaca es con V o con B? </label>
+				<br>									
+							
+				<input type="radio" name="Crisis" id="Preguntas_2" value="Falsa">
+				<label for="Preguntas_2" id="Crisis_2"> Ustedes creen que se puedan pelear? </label>
+				<br>
+															
+				<input type="radio" name="Crisis" id="Preguntas_3" value="Falsa">
+				<label for="Preguntas_3" id="Crisis_3"> En Teatro Lola Membrives debería haber 4 Garcías cala 100 personas </label>
+				<br>
+					
+				<p id="Pregunta_6_Puntos">10 Puntos</p>
+				<a href="https://www.youtube.com/watch?v=ugZNSGkk3ys" id="Link_Pregunta_6">Link de verificacion</a>		
+			
+			</div>
+		</li>
+		
+		<!--                          Final de la Pregunta 6                          -->
+	
+	</ol>
+		
+		<!--                          Javascript para los Resutado                          -->
+		
+		<script>
+			
+			"use strict"
+			function Resutado_Pregunta_1 (){
+				var Resutado = 0;
+				var Orden = document.getElementById("Andreu").value;
+
+				if (Orden == 1) {					
+					document.getElementById("Andreu").style.color = "#32CD32";
+					document.getElementById("Berto").style.color = "#32CD32";
+					document.getElementById("Pregunta_1").style.color = "#32CD32";
+					document.getElementById("Pregunta_1_Puntos").innerHTML = 10 + "/10 Puntos";
+					Resutado = 10;
+				}
+				
+				else { 
+					document.getElementById("Andreu").style.color = "red";
+					document.getElementById("Berto").style.color = "red";
+					document.getElementById("Pregunta_1").style.color = "red";
+					document.getElementById("Pregunta_1_Puntos").innerHTML ="0/10 Puntos";
+				}
+			
+			return Resutado;
+			
+			};
+			
+			/*--------------------- fin de Resutado_Pregunta_1-----------------------*/
+
+			function Resutado_Pregunta_2 (){
+				var Resutado = 0;
+				var AUX = document.getElementsByName("Nombre_en_COVID_19");
+				var DATO = -1;
+				var NUM = 0;
+                	
+
+                	for (var i = 1; i < AUX.length+1; i++) { 
+
+           				if (AUX[i-1].checked) {
+           					DATO = AUX[i-1].value;
+           					NUM = i;
+           				}
+
+           				else{
+           					document.getElementById("Lugar_" + i).style.color = "black"
+           				}
+
+           			}
+						
+       				if (DATO != -1 ) {
+       					
+       					if (DATO == "letra_8" ) {
+       			
+       						Resutado += 4;
+       						document.getElementById("Lugar_" + NUM).style.color = "#32CD32";
+
+       							if (document.getElementById("letras_elegida_2").value == "L") {
+       								Resutado += 6;
+									document.getElementById("letras_elegida_2").style.color = "#32CD32";
+									document.getElementById("Pregunta_2").style.color = "#32CD32"; 
+       							}
+       							
+       							else {
+       								document.getElementById("letras_elegida_2").style.color = "red";
+       								document.getElementById("Pregunta_2").style.color = "red"; 
+       							}
+       					}
+       				
+       					else {
+       						document.getElementById("letras_elegida_2").style.color = "red";
+       						document.getElementById("Pregunta_2").style.color = "red"; 
+       						document.getElementById("Lugar_" + NUM).style.color = "red";
+       					}
+       				
+       				}
+
+       				else{
+       					document.getElementById("Pregunta_2").style.color = "red";
+       					document.getElementById("letras_elegida_2").style.color = "red";	
+       					
+       					for (var i = 1; i < AUX.length+1; i++) {
+       						document.getElementById("Lugar_" + i).style.color = "red"
+       					}
+       				}
+
+       			document.getElementById("Pregunta_2_Puntos").innerHTML = Resutado + "/10 Puntos";
+       			      	                    	
+				return Resutado;
+				};
+
+			/*--------------------- fin de Resutado_Pregunta_2-----------------------*/
+
+			function Resutado_Pregunta_3 (){
+				
+				var Resutado = 0;
+				var DATO = document.getElementById("Whatsapp").value;
+					
+				if (DATO == 45) {
+					document.getElementById("Whatsapp").style.color = "#32CD32";
+					document.getElementById("Pregunta_3").style.color = "#32CD32";
+					Resutado += 10 ;
+				}
+				
+				if (DATO == 20) {
+					document.getElementById("Whatsapp").style.color = "#FFD700";
+					document.getElementById("Pregunta_3").style.color = "#FFD700";
+					Resutado += 5;
+				}
+
+				if (Resutado == 0) {
+					document.getElementById("Whatsapp").style.color = "red";
+					document.getElementById("Pregunta_3").style.color = "red";
+				}
+
+				document.getElementById("Pregunta_3_Puntos").innerHTML = Resutado + "/10 Puntos";
+
+				return Resutado;
+			}
+
+			/*--------------------- fin de Resutado_Pregunta_3-----------------------*/
+
+			function Resutado_Pregunta_4 (){
+				var Resutado = 0;
+				var AUX = document.getElementsByName("Geólogo");
+				var True = 0;
+				var Falsa = 0;
+
+					for (var i = 1; i < AUX.length+1; i++) { 
+
+
+           				if (AUX[i-1].checked) {
+           					
+           					if (AUX[i-1].value == "true") {
+           						True++;
+           						document.getElementById("Geólog_" + i  ).style.color = "#32CD32";
+           					}
+           					else{
+           						Falsa++;
+           						document.getElementById("Geólog_" + i  ).style.color = "red";
+           					}
+           				}
+           				else {
+           					document.getElementById("Geólog_" + i  ).style.color = "black";
+           				}
+
+           				
+           			}
+
+           			if (True == 3) {
+           				Resutado = 1;
+           			}
+
+           			Resutado += True*3 - Falsa*4;
+
+           			if (Resutado < 0) {
+           				Resutado = 0;
+           			
+           			}
+
+
+           			if (True == 0 && Falsa == 0) {
+           				for (var i = 1; i < AUX.length+1; i++) {
+           				
+           					document.getElementById("Geólog_" + i  ).style.color = "red";
+           				}
+           			}
+
+           			if (Resutado == 10) {
+           				document.getElementById("Pregunta_4").style.color = "#32CD32";
+           			}
+           			else{
+           				document.getElementById("Pregunta_4").style.color = "red";
+           			}
+
+           		document.getElementById("Pregunta_4_Puntos").innerHTML = Resutado + "/10 Puntos";
+				return Resutado;
+			}
+
+			/*--------------------- fin de Resutado_Pregunta_4-----------------------*/
+
+			function Resutado_Pregunta_5 (){
+				
+				var Resutado = 0;
+				var AUX = document.getElementsByName("Opera");
+				var True = 0;
+				var Falsa = 0;
+
+					for (var i = 1; i < AUX.length+1; i++) { 
+
+           				if (AUX[i-1].checked) {
+           					
+           					if (AUX[i-1].value == "True") {
+           						True++;
+           						document.getElementById("Opera_" + i  ).style.color = "#32CD32";
+           					}
+           					else{
+           						Falsa++;
+           						document.getElementById("Opera_" + i  ).style.color = "red";
+           					}
+           				}
+           				else {
+           					document.getElementById("Opera_" + i  ).style.color = "black";
+           				}
+
+           				
+           			}
+
+           			if (True == 2) {
+           				Resutado = 2;
+           			}
+
+           			Resutado += True*4 - Falsa*4;
+
+           			if (Resutado < 0) {
+           				Resutado = 0;
+           			
+           			}
+
+
+           			if (True == 0 && Falsa == 0) {
+           				for (var i = 1; i < AUX.length+1; i++) {
+           				
+           					document.getElementById("Opera_" + i  ).style.color = "red";
+           				}
+
+           			}
+
+           			if (Resutado == 10) {
+           				document.getElementById("Pregunta_5").style.color = "#32CD32";
+           			}
+           			else{
+           				document.getElementById("Pregunta_5").style.color = "red";
+           			}
+
+           		document.getElementById("Pregunta_5_Puntos").innerHTML = Resutado + "/10 Puntos";
+				return Resutado;
+			}
+
+			/*--------------------- fin de Resutado_Pregunta_5-----------------------*/
+
+			function Resutado_Pregunta_6 (){
+				
+				var Resutado = 0;
+				var AUX = document.getElementsByName("Crisis");
+				var V = "Falsa";
+					for (var i = 1; i < AUX.length+1; i++) { 
+
+           				if (AUX[i-1].checked) {
+           					V = "True";
+           					if (AUX[i-1].value == "True") {
+           						Resutado = 10;
+           						document.getElementById("Crisis_" + i  ).style.color = "#32CD32";
+           					}
+           					else{
+           						document.getElementById("Crisis_" + i  ).style.color = "red";
+           					}
+           				}
+						else{
+           						document.getElementById("Crisis_" + i  ).style.color = "black";
+           					}
+           				
+           			}
+
+           			if (V == "Falsa") {
+           				for (var i = 1; i < AUX.length+1; i++) { 
+           					document.getElementById("Crisis_" + i  ).style.color = "red";
+           				}
+           			}
+
+           			if (Resutado == 10) {
+           				document.getElementById("Pregunta_6").style.color = "#32CD32";
+           			}
+           			else{
+           				document.getElementById("Pregunta_6").style.color = "red";
+           			}
+
+           		document.getElementById("Pregunta_6_Puntos").innerHTML = Resutado + "/10 Puntos";
+				return Resutado;
+			}
+
+			/*--------------------- fin de Resutado_Pregunta_6-----------------------*/
+
+			function DIOS(){
+				/*Dios sugon nietzsche es la idea de un cosa que todo el mundo toma como una verdad absoluta
+				Este video "habla" de esto https://www.youtube.com/watch?v=2X9bxRwULiY */
+				var MAX = 10*6;
+				var Puntos = 0;
+
+				Puntos += Resutado_Pregunta_1();
+				
+				Puntos += Resutado_Pregunta_2();
+				
+				Puntos += Resutado_Pregunta_3();
+
+				Puntos += Resutado_Pregunta_4();
+				
+				Puntos += Resutado_Pregunta_5();
+
+				Puntos += Resutado_Pregunta_6();
+				
+				if (Puntos == MAX) {
+					document.getElementById("Link_Pregunta_1").style.display = "block";
+					document.getElementById("Image_Pregunta_2").style.display = "block";
+					document.getElementById("Link_Pregunta_3").style.display = "block";
+					document.getElementById("Link_Pregunta_4").style.display = "block";
+					document.getElementById("Link_Pregunta_5").style.display = "block";
+					document.getElementById("Link_Pregunta_6").style.display = "block";
+					document.getElementById("Boton").style.display = "none";
+				}
+
+
+				var AUX = (Puntos*100)/MAX ; 
+				document.getElementById("Resutado").innerHTML = "Tu Resutado "+ Puntos + "/" + MAX + " con un porcentaje de asiento del %" + AUX.toPrecision(4);
+
+				/* Esto ( toPrecision() ) lo saqué de 
+				https://www.w3schools.com/jsref/jsref_toprecision.asp */
+			}
+
+
+			</script>
+
+			<!--                          Final del Javascript para los Resutado                          -->
+
+			<P id="Resutado"></P>
+	
+	<input type="button" value="Enviar" id="Boton" onclick="DIOS();">
+</form>
+
+</body>
+</html>

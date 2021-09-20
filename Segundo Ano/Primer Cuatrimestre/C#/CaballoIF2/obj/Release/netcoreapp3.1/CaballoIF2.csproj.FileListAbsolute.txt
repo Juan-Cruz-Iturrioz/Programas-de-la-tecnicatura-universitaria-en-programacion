@@ -1,0 +1,11 @@
+D:\Dato de Escritorio\C\C#\CaballoIF2\bin\Release\netcoreapp3.1\CaballoIF2.exe
+D:\Dato de Escritorio\C\C#\CaballoIF2\bin\Release\netcoreapp3.1\CaballoIF2.deps.json
+D:\Dato de Escritorio\C\C#\CaballoIF2\bin\Release\netcoreapp3.1\CaballoIF2.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\CaballoIF2\bin\Release\netcoreapp3.1\CaballoIF2.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\CaballoIF2\bin\Release\netcoreapp3.1\CaballoIF2.dll
+D:\Dato de Escritorio\C\C#\CaballoIF2\bin\Release\netcoreapp3.1\CaballoIF2.pdb
+D:\Dato de Escritorio\C\C#\CaballoIF2\obj\Release\netcoreapp3.1\CaballoIF2.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\CaballoIF2\obj\Release\netcoreapp3.1\CaballoIF2.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\CaballoIF2\obj\Release\netcoreapp3.1\CaballoIF2.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\CaballoIF2\obj\Release\netcoreapp3.1\CaballoIF2.dll
+D:\Dato de Escritorio\C\C#\CaballoIF2\obj\Release\netcoreapp3.1\CaballoIF2.pdb

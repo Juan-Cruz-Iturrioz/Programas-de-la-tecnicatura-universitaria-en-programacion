@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\bin\Debug\netcoreapp3.1\El camino del caballo.exe
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\bin\Debug\netcoreapp3.1\El camino del caballo.deps.json
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\bin\Debug\netcoreapp3.1\El camino del caballo.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\bin\Debug\netcoreapp3.1\El camino del caballo.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\bin\Debug\netcoreapp3.1\El camino del caballo.dll
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\bin\Debug\netcoreapp3.1\El camino del caballo.pdb
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\obj\Debug\netcoreapp3.1\El camino del caballo.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\obj\Debug\netcoreapp3.1\El camino del caballo.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\obj\Debug\netcoreapp3.1\El camino del caballo.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\obj\Debug\netcoreapp3.1\El camino del caballo.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\obj\Debug\netcoreapp3.1\El camino del caballo.dll
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\obj\Debug\netcoreapp3.1\El camino del caballo.pdb
+D:\Dato de Escritorio\C\C#\El camino del caballo\El camino del caballo\obj\Debug\netcoreapp3.1\El camino del caballo.genruntimeconfig.cache

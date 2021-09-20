@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\bin\Debug\netcoreapp3.1\X por X+X.exe
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\bin\Debug\netcoreapp3.1\X por X+X.deps.json
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\bin\Debug\netcoreapp3.1\X por X+X.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\bin\Debug\netcoreapp3.1\X por X+X.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\bin\Debug\netcoreapp3.1\X por X+X.dll
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\bin\Debug\netcoreapp3.1\X por X+X.pdb
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\obj\Debug\netcoreapp3.1\X por X+X.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\obj\Debug\netcoreapp3.1\X por X+X.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\obj\Debug\netcoreapp3.1\X por X+X.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\obj\Debug\netcoreapp3.1\X por X+X.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\obj\Debug\netcoreapp3.1\X por X+X.dll
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\obj\Debug\netcoreapp3.1\X por X+X.pdb
+D:\Dato de Escritorio\C\C#\X por X+X\X por X+X\obj\Debug\netcoreapp3.1\X por X+X.genruntimeconfig.cache

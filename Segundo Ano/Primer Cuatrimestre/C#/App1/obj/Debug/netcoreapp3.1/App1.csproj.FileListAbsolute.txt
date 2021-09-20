@@ -1,0 +1,11 @@
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\bin\Debug\netcoreapp3.1\App1.exe
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\bin\Debug\netcoreapp3.1\App1.deps.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\bin\Debug\netcoreapp3.1\App1.runtimeconfig.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\bin\Debug\netcoreapp3.1\App1.runtimeconfig.dev.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\bin\Debug\netcoreapp3.1\App1.dll
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\bin\Debug\netcoreapp3.1\App1.pdb
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\obj\Debug\netcoreapp3.1\App1.csprojAssemblyReference.cache
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\obj\Debug\netcoreapp3.1\App1.AssemblyInfoInputs.cache
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\obj\Debug\netcoreapp3.1\App1.AssemblyInfo.cs
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\obj\Debug\netcoreapp3.1\App1.dll
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\App1\obj\Debug\netcoreapp3.1\App1.pdb

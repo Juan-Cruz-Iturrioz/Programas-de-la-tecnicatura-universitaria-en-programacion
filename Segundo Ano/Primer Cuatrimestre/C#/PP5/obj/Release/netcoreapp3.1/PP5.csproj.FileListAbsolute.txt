@@ -1,0 +1,11 @@
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\bin\Release\netcoreapp3.1\PP5.exe
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\bin\Release\netcoreapp3.1\PP5.deps.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\bin\Release\netcoreapp3.1\PP5.runtimeconfig.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\bin\Release\netcoreapp3.1\PP5.runtimeconfig.dev.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\bin\Release\netcoreapp3.1\PP5.dll
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\bin\Release\netcoreapp3.1\PP5.pdb
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\obj\Release\netcoreapp3.1\PP5.csprojAssemblyReference.cache
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\obj\Release\netcoreapp3.1\PP5.AssemblyInfoInputs.cache
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\obj\Release\netcoreapp3.1\PP5.AssemblyInfo.cs
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\obj\Release\netcoreapp3.1\PP5.dll
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP5\obj\Release\netcoreapp3.1\PP5.pdb

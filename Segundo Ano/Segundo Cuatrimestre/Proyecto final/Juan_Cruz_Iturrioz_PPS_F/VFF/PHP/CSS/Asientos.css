@@ -1,0 +1,28 @@
+body{ 
+  font-size:12pt;
+  background:#E3E0D1;
+  padding:16px;
+  margin:0;
+  
+}
+
+
+input[type="submit"] {
+  font-weight: bold;
+  padding: 4px 8px;
+  border:1px solid #000;
+  background: #3b5998;
+  color:#fff;
+}
+
+h1 {
+  text-align:center;
+}
+
+p , h1 , h2 , form , div {
+  
+  line-height : 30px;
+  margin: 0 auto;
+}
+
+

@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\bin\Debug\netcoreapp3.1\PRO3-C4.exe
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\bin\Debug\netcoreapp3.1\PRO3-C4.deps.json
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\bin\Debug\netcoreapp3.1\PRO3-C4.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\bin\Debug\netcoreapp3.1\PRO3-C4.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\bin\Debug\netcoreapp3.1\PRO3-C4.dll
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\bin\Debug\netcoreapp3.1\PRO3-C4.pdb
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\obj\Debug\netcoreapp3.1\PRO3-C4.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\obj\Debug\netcoreapp3.1\PRO3-C4.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\obj\Debug\netcoreapp3.1\PRO3-C4.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\obj\Debug\netcoreapp3.1\PRO3-C4.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\obj\Debug\netcoreapp3.1\PRO3-C4.dll
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\obj\Debug\netcoreapp3.1\PRO3-C4.pdb
+D:\Dato de Escritorio\C\C#\PRO3-C4\PRO3-C4\obj\Debug\netcoreapp3.1\PRO3-C4.genruntimeconfig.cache

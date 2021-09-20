@@ -1,0 +1,11 @@
+D:\Dato de Escritorio\C\C#\N caballo\bin\Release\netcoreapp3.1\N caballo.exe
+D:\Dato de Escritorio\C\C#\N caballo\bin\Release\netcoreapp3.1\N caballo.deps.json
+D:\Dato de Escritorio\C\C#\N caballo\bin\Release\netcoreapp3.1\N caballo.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\N caballo\bin\Release\netcoreapp3.1\N caballo.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\N caballo\bin\Release\netcoreapp3.1\N caballo.dll
+D:\Dato de Escritorio\C\C#\N caballo\bin\Release\netcoreapp3.1\N caballo.pdb
+D:\Dato de Escritorio\C\C#\N caballo\obj\Release\netcoreapp3.1\N caballo.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\N caballo\obj\Release\netcoreapp3.1\N caballo.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\N caballo\obj\Release\netcoreapp3.1\N caballo.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\N caballo\obj\Release\netcoreapp3.1\N caballo.dll
+D:\Dato de Escritorio\C\C#\N caballo\obj\Release\netcoreapp3.1\N caballo.pdb

@@ -1,0 +1,11 @@
+
+RewriteEngine On
+
+RewriteRule ^Boleterias$ PHP/controllers/Boleterias.php 
+
+RewriteRule ^Tipo_de_asiento$ PHP/controllers/Tipo_de_asiento.php 
+
+RewriteRule ^Boletos-Vagon=([0-9]+)$ PHP/controllers/Boletos.php?Vagon=$1
+
+RewriteRule ^Pasajeros$ PHP/controllers/Pasajeros.php
+

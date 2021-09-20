@@ -1,0 +1,60 @@
+.tab, .tab #H, .tab #TF1, .tab #TF2, .tab #TFF , .tab #TF3 {
+	 		border: 1px solid black;
+  			width: 9%;
+  			height: 35px;
+  			}
+
+  		.tab #H {background: navy; color: white; text-align: left; }
+
+  		.tab #TF2{background: yellow;}
+
+  		.tab #TFF{background:red; text-align: center;  color: white;}
+
+  		.tab #TF3{color: silver;}
+
+  		.tab #MAX{background: yellow; border: 3px solid red; color: red; }
+
+  		.tab #TFFF{
+  			
+  			height: 50px;
+  			 
+  			border-collapse: collapse; 
+  			text-align: center;
+			border: 3px solid black
+  			}
+
+
+<table class="tab" > 
+	<tr>
+		<th id="H">Año</th> <th id="H">Ventas($)</th>
+	</tr>
+
+	<tr> 
+		<td id="TF1">2007</td> <td id="TF1">3500</td>
+	</tr>
+
+	<tr> 
+		<td id="TF2">2008</td> <td id="TF2">5600</td>
+	</tr>
+
+	<tr> 
+		<td id="TF1">2009</td> <td id="TF1">5600</td>
+	</tr>
+
+	<tr> 
+		<td id="TF2">2010</td> <td id="MAX">7800</td>
+	</tr>
+
+	<tr> 
+		<td id="TF1">2011</td> <td id="TF1">6100</td>
+	</tr>
+
+	<tr> <td id="TFF"colspan="2">Total</td> </tr>
+	
+	<tr>
+		<td id="TFFF" rowspan="2"> <strong>$27200</strong> </td> <td id="TF3">max</td>	
+	</tr>
+
+	<tr>
+		<td id="TF3">iva</td>
+	</tr>

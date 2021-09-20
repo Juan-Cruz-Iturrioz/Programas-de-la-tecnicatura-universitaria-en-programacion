@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\bin\Debug\netcoreapp3.1\Programa de clases 3.exe
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\bin\Debug\netcoreapp3.1\Programa de clases 3.deps.json
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\bin\Debug\netcoreapp3.1\Programa de clases 3.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\bin\Debug\netcoreapp3.1\Programa de clases 3.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\bin\Debug\netcoreapp3.1\Programa de clases 3.dll
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\bin\Debug\netcoreapp3.1\Programa de clases 3.pdb
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\obj\Debug\netcoreapp3.1\Programa de clases 3.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\obj\Debug\netcoreapp3.1\Programa de clases 3.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\obj\Debug\netcoreapp3.1\Programa de clases 3.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\obj\Debug\netcoreapp3.1\Programa de clases 3.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\obj\Debug\netcoreapp3.1\Programa de clases 3.dll
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\obj\Debug\netcoreapp3.1\Programa de clases 3.pdb
+D:\Dato de Escritorio\C\C#\Programa de clases 3\Programa de clases 3\obj\Debug\netcoreapp3.1\Programa de clases 3.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\Dato de Escritorio\C\C#\RP\bin\Debug\netcoreapp3.1\RP.exe
+D:\Dato de Escritorio\C\C#\RP\bin\Debug\netcoreapp3.1\RP.deps.json
+D:\Dato de Escritorio\C\C#\RP\bin\Debug\netcoreapp3.1\RP.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\RP\bin\Debug\netcoreapp3.1\RP.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\RP\bin\Debug\netcoreapp3.1\RP.dll
+D:\Dato de Escritorio\C\C#\RP\bin\Debug\netcoreapp3.1\RP.pdb
+D:\Dato de Escritorio\C\C#\RP\obj\Debug\netcoreapp3.1\RP.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\RP\obj\Debug\netcoreapp3.1\RP.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\RP\obj\Debug\netcoreapp3.1\RP.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\RP\obj\Debug\netcoreapp3.1\RP.dll
+D:\Dato de Escritorio\C\C#\RP\obj\Debug\netcoreapp3.1\RP.pdb

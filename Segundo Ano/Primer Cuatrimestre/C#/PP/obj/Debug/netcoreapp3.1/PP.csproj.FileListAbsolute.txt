@@ -1,0 +1,11 @@
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\bin\Debug\netcoreapp3.1\PP.exe
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\bin\Debug\netcoreapp3.1\PP.deps.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\bin\Debug\netcoreapp3.1\PP.runtimeconfig.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\bin\Debug\netcoreapp3.1\PP.runtimeconfig.dev.json
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\bin\Debug\netcoreapp3.1\PP.dll
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\bin\Debug\netcoreapp3.1\PP.pdb
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\obj\Debug\netcoreapp3.1\PP.csprojAssemblyReference.cache
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\obj\Debug\netcoreapp3.1\PP.AssemblyInfoInputs.cache
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\obj\Debug\netcoreapp3.1\PP.AssemblyInfo.cs
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\obj\Debug\netcoreapp3.1\PP.dll
+C:\Users\iturr\OneDrive\Escritorio\C#\c#\PP\obj\Debug\netcoreapp3.1\PP.pdb

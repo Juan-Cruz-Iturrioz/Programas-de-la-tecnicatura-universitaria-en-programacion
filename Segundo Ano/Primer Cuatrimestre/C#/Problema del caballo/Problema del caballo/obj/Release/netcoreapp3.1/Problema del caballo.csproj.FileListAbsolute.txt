@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\bin\Release\netcoreapp3.1\Problema del caballo.exe
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\bin\Release\netcoreapp3.1\Problema del caballo.deps.json
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\bin\Release\netcoreapp3.1\Problema del caballo.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\bin\Release\netcoreapp3.1\Problema del caballo.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\bin\Release\netcoreapp3.1\Problema del caballo.dll
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\bin\Release\netcoreapp3.1\Problema del caballo.pdb
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\obj\Release\netcoreapp3.1\Problema del caballo.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\obj\Release\netcoreapp3.1\Problema del caballo.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\obj\Release\netcoreapp3.1\Problema del caballo.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\obj\Release\netcoreapp3.1\Problema del caballo.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\obj\Release\netcoreapp3.1\Problema del caballo.dll
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\obj\Release\netcoreapp3.1\Problema del caballo.pdb
+D:\Dato de Escritorio\C\C#\Problema del caballo\Problema del caballo\obj\Release\netcoreapp3.1\Problema del caballo.genruntimeconfig.cache

@@ -1,0 +1,67 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "P_DataGridView/1.0.0": {
+        "dependencies": {
+          "Interop.Microsoft.Office.Interop.Access": "9.0.0.0",
+          "Interop.Microsoft.Office.Core": "2.8.0.0",
+          "Interop.Microsoft.Office.Interop.Excel": "1.9.0.0"
+        },
+        "runtime": {
+          "P_DataGridView.dll": {}
+        }
+      },
+      "Interop.Microsoft.Office.Interop.Access/9.0.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Interop.Access.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.0.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Core/2.8.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Core.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.0.0"
+          }
+        }
+      },
+      "Interop.Microsoft.Office.Interop.Excel/1.9.0.0": {
+        "runtime": {
+          "Interop.Microsoft.Office.Interop.Excel.dll": {
+            "assemblyVersion": "1.9.0.0",
+            "fileVersion": "1.9.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P_DataGridView/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Interop.Access/9.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Core/2.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.Microsoft.Office.Interop.Excel/1.9.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

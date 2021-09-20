@@ -1,0 +1,11 @@
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\bin\Debug\netcoreapp3.1\Caballo IF FIN.exe
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\bin\Debug\netcoreapp3.1\Caballo IF FIN.deps.json
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\bin\Debug\netcoreapp3.1\Caballo IF FIN.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\bin\Debug\netcoreapp3.1\Caballo IF FIN.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\bin\Debug\netcoreapp3.1\Caballo IF FIN.dll
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\bin\Debug\netcoreapp3.1\Caballo IF FIN.pdb
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\obj\Debug\netcoreapp3.1\Caballo IF FIN.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\obj\Debug\netcoreapp3.1\Caballo IF FIN.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\obj\Debug\netcoreapp3.1\Caballo IF FIN.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\obj\Debug\netcoreapp3.1\Caballo IF FIN.dll
+D:\Dato de Escritorio\C\C#\Caballo IF FIN\obj\Debug\netcoreapp3.1\Caballo IF FIN.pdb

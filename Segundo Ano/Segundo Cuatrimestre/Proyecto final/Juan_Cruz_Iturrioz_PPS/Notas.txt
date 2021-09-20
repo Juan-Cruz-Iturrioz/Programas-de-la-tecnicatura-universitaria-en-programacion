@@ -1,0 +1,9 @@
+Alumno: Iturrioz Juan Cruz 	Fecha:28/11/2020 	Legajo:25160  
+
+Programas PHP usando Patrón MVC
+
+Forma de ascender es 
+
+http://localhost:8080/Juan_Cruz_Iturrioz/PHP/controllers/Programas.php
+
+

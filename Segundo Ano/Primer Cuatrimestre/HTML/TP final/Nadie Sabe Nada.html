@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<title>TP final de Juan Cruz Iturrioz.net</title>
+<style type="text/css">
+	
+
+	#oculto {		
+		visibility : hidden;
+	}
+
+</style>
+
+</head>
+<body>
+
+<h1 id="Titulo">Cuestionario sobre Nadie Sabe Nada</h1>
+	
+	<ol id="PUNS">
+		<li id="PUN 1">Cual es el orden de los presentadores
+			<form>
+				
+				<label for="Andreu Buenafuente">Andreu Buenafuente</label>
+					
+					<select name="Andreu Buenafuente" id="Andreu" onclick='FUN_PUN_1("Andreu");' >
+  						<option value="1" >Primero</option>
+ 						<option value="2" >Segundo</option>
+						<option selected="true"></option>
+					</select>
+
+				<label for="Berto Romero">Berto Romero</label>
+
+					<select name="Berto Romero" id="Berto" onclick='FUN_PUN_1("Berto");' value = "">
+  						<option value="1" >Primero</option>
+ 						<option value="2" >Segundo</option>
+ 						<option selected="true"></option>
+					</select>
+
+			</form>
+			
+			
+			<script type="text/javascript">
+				"use strict"
+
+				function FUN_PUN_1(Nombre_1){
+				
+				var Nombre_2
+
+				if (Nombre_1 == "Andreu") {
+				
+					Nombre_2 = "Berto"
+				}
+				else{
+				
+					Nombre_2 = "Andreu"
+				}
+
+
+				if(document.getElementById(Nombre_1).selectedIndex == 0){
+					
+					document.getElementById(Nombre_2).selectedIndex = 1;
+				}
+
+				if(document.getElementById(Nombre_1).selectedIndex == 1){
+					
+					document.getElementById(Nombre_2).selectedIndex = 0;
+				}
+				
+				};
+				
+				
+			</script>
+		</li>
+
+
+
+	</ol>
+
+</body>
+</html>

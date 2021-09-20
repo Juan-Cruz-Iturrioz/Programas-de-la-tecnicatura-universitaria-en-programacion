@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.exe
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.deps.json
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.dll
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\bin\Debug\netcoreapp3.1\Ejercicio 1.pdb
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.dll
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.pdb
+D:\Dato de Escritorio\C\C#\Ejercicio 1\Ejercicio 1\obj\Debug\netcoreapp3.1\Ejercicio 1.genruntimeconfig.cache

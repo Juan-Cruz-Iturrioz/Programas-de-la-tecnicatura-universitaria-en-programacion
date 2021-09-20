@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\bin\Debug\netcoreapp3.1\Ejercicio 3.exe
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\bin\Debug\netcoreapp3.1\Ejercicio 3.deps.json
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\bin\Debug\netcoreapp3.1\Ejercicio 3.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\bin\Debug\netcoreapp3.1\Ejercicio 3.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\bin\Debug\netcoreapp3.1\Ejercicio 3.dll
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\bin\Debug\netcoreapp3.1\Ejercicio 3.pdb
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\obj\Debug\netcoreapp3.1\Ejercicio 3.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\obj\Debug\netcoreapp3.1\Ejercicio 3.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\obj\Debug\netcoreapp3.1\Ejercicio 3.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\obj\Debug\netcoreapp3.1\Ejercicio 3.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\obj\Debug\netcoreapp3.1\Ejercicio 3.dll
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\obj\Debug\netcoreapp3.1\Ejercicio 3.pdb
+D:\Dato de Escritorio\C\C#\Ejercicio 3\Ejercicio 3\obj\Debug\netcoreapp3.1\Ejercicio 3.genruntimeconfig.cache

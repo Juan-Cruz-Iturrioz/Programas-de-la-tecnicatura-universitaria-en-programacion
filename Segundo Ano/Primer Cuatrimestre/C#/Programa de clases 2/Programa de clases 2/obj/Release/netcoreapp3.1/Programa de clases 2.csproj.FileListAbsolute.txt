@@ -1,0 +1,13 @@
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\bin\Release\netcoreapp3.1\Programa de clases 2.exe
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\bin\Release\netcoreapp3.1\Programa de clases 2.deps.json
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\bin\Release\netcoreapp3.1\Programa de clases 2.runtimeconfig.json
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\bin\Release\netcoreapp3.1\Programa de clases 2.runtimeconfig.dev.json
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\bin\Release\netcoreapp3.1\Programa de clases 2.dll
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\bin\Release\netcoreapp3.1\Programa de clases 2.pdb
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\obj\Release\netcoreapp3.1\Programa de clases 2.csprojAssemblyReference.cache
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\obj\Release\netcoreapp3.1\Programa de clases 2.csproj.CoreCompileInputs.cache
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\obj\Release\netcoreapp3.1\Programa de clases 2.AssemblyInfoInputs.cache
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\obj\Release\netcoreapp3.1\Programa de clases 2.AssemblyInfo.cs
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\obj\Release\netcoreapp3.1\Programa de clases 2.dll
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\obj\Release\netcoreapp3.1\Programa de clases 2.pdb
+D:\Dato de Escritorio\C\C#\Programa de clases 2\Programa de clases 2\obj\Release\netcoreapp3.1\Programa de clases 2.genruntimeconfig.cache

@@ -1,0 +1,40 @@
+body{ 
+  font-size:12pt;
+  background:#E3E0D1;
+  padding:16px;
+  margin:0;
+  text-align:center;
+}
+
+
+input[type="submit"] {
+  font-weight: bold;
+  padding: 4px 8px;
+  border:1px solid #000;
+  background: #3b5998;
+  color:#fff;
+}
+
+h1 {
+  font-size:20pt;
+  padding:32px;
+
+}
+
+p , h1 , form {
+  width: 50%;
+  line-height : 30px;
+  margin: 0 auto;
+}
+
+table {
+   width: 100%;
+   border: 1px solid #000;
+}
+
+th, td , tbody {
+   width: 5%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+}
